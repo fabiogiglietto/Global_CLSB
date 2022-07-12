@@ -13,6 +13,10 @@ Due to the large amount of not-anymore-available original URLs and to avoid dire
 
 The map displays networks composed of three or more coordinated accounts (49). The size of the nodes corresponds to the weighted degree SNA metric. Each component is separated, thus the relative position of the component in the chart is random and thus meaningless.
 
-Authors
+# Authors
 
 Fabio Giglietto (University of Urbino Carlo Bo), Roberto Mincigrucci (University of Perugia), Sawood Anwar (University of Urbino Carlo Bo)
+
+# Aknowledgment
+
+Nicola Righetti (University of Vienna) for setting up this space.
