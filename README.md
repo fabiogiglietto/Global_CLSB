@@ -1,6 +1,6 @@
 # Global CLSB List
 
-This github lists [818 Facebook accounts](https://github.com/fabiogiglietto/Global_CLSB/blob/main/Global_CLSB_2017_2021_accounts.csv) organized in [95 clusters](https://github.com/fabiogiglietto/Global_CLSB/blob/main/Global_CLSB_2017_2021_clusters.csv) that perform coordinated link sharing behavior (CLSB) to amplify problematic news stories on Facebook.
+This github lists [818 accounts](https://github.com/fabiogiglietto/Global_CLSB/blob/main/Global_CLSB_2017_2021_accounts.csv) organized in [95 clusters](https://github.com/fabiogiglietto/Global_CLSB/blob/main/Global_CLSB_2017_2021_clusters.csv) that perform coordinated link sharing behavior (CLSB) to amplify problematic news stories on Facebook.
 
 ## Methodology
 
